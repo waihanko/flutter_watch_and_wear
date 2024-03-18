@@ -1,0 +1,28 @@
+PODS:
+  - Flutter (1.0.0)
+  - is_wear (0.0.1):
+    - Flutter
+  - watch_connectivity (0.0.1):
+    - Flutter
+
+DEPENDENCIES:
+  - Flutter (from `Flutter`)
+  - is_wear (from `.symlinks/plugins/is_wear/ios`)
+  - watch_connectivity (from `.symlinks/plugins/watch_connectivity/ios`)
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: Flutter
+  is_wear:
+    :path: ".symlinks/plugins/is_wear/ios"
+  watch_connectivity:
+    :path: ".symlinks/plugins/watch_connectivity/ios"
+
+SPEC CHECKSUMS:
+  Flutter: e0871f40cf51350855a761d2e70bf5af5b9b5de7
+  is_wear: d4928a5ce8b07101a322ed3e1f71d8232779ce0c
+  watch_connectivity: 715eb484685e05846eab74795348a44bb2809b82
+
+PODFILE CHECKSUM: 4f1c12611da7338d21589c0b2ecd6bd20b109694
+
+COCOAPODS: 1.15.2

@@ -1,0 +1,33 @@
+{
+  "originHash" : "100be93a73c0c58537c868f154eb29d9ea23161a86f7165f3ee1b789ee318ae1",
+  "pins" : [
+    {
+      "identity" : "qrcode",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/dagronf/qrcode.git",
+      "state" : {
+        "revision" : "3d20089ead9f9fb559dad58f45f78ffb07d940cc",
+        "version" : "18.3.0"
+      }
+    },
+    {
+      "identity" : "swift-qrcode-generator",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/dagronf/swift-qrcode-generator",
+      "state" : {
+        "revision" : "2b1980b825f08a81ccc762b0c4d17fcde9d5e953",
+        "version" : "2.0.2"
+      }
+    },
+    {
+      "identity" : "swiftimagereadwrite",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/dagronf/SwiftImageReadWrite",
+      "state" : {
+        "revision" : "96361ba7f9dce5184d95aba8ea90d9faa4acabb2",
+        "version" : "1.6.1"
+      }
+    }
+  ],
+  "version" : 3
+}
